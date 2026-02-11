@@ -30,7 +30,21 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 -> Interpretação dos resultados e insights obtidos 
 
-5. Considerações finais
+5. Ferramentas
+
+Python, Pandas, Matplotlib e Jupyter Notebook
+
+6. Como executar
+
+Basta abrir o arquivo `main.ipynb` em um ambiente como:
+
+- Jupyter Notebook  
+- Google Colab  
+- VS Code (com extensão Jupyter instalada)
+
+E executar as células em ordem.
+   
+7. Considerações finais
    
 Este projeto foi desenvolvido com foco em aprendizado prático, organização e clareza na análise. Ele demonstra habilidades em análise exploratória de dados, interpretação de resultados e comunicação de insights.
  
