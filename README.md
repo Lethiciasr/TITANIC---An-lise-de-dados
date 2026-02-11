@@ -2,7 +2,7 @@ TITANIC - Análise de Dados
 
 1. Introdução
 
-Esse projeto tem como objetivo realizar uma análse exploratória de dados. Além disso, o projeto inclui tratamento de dados, geração de gráficos e interpretação dos resultados com foco em apredizados e desenvolvimento na área de análise de dados.
+Esse projeto tem como objetivo realizar uma análise exploratória de dados. Além disso, o projeto inclui tratamento de dados, geração de gráficos e interpretação dos resultados com foco em aprendizados e desenvolvimento na área de análise de dados.
 
 2. Objetivo do projeto
 
@@ -20,15 +20,15 @@ Principais colunas analisadas `Survived` , `Pclass` , `Sex` e `Age` .
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
 
--> Importação das bibliorecas e carregamento do dataset
+-> Importação das bibliotecas e carregamento do dataset
 
 -> Exploração inicial dos dados 
 
 -> Limpeza e tratamento dos dados
 
--> Anáise exploratória com apoio de vizualização gráfica
+-> Análise exploratória com apoio de visualização gráfica
 
--> Interpretação dos resultafos e insights obtidos 
+-> Interpretação dos resultados e insights obtidos 
 
 5. Considerações finais
    
